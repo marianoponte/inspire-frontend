@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/inspire-frontend/static/css/main.4ddf1a71.chunk.css",
+    "main.js": "/inspire-frontend/static/js/main.4590a7f0.chunk.js",
+    "main.js.map": "/inspire-frontend/static/js/main.4590a7f0.chunk.js.map",
+    "runtime-main.js": "/inspire-frontend/static/js/runtime-main.81cc7a2f.js",
+    "runtime-main.js.map": "/inspire-frontend/static/js/runtime-main.81cc7a2f.js.map",
+    "static/css/2.26be8dc4.chunk.css": "/inspire-frontend/static/css/2.26be8dc4.chunk.css",
+    "static/js/2.17b35f7b.chunk.js": "/inspire-frontend/static/js/2.17b35f7b.chunk.js",
+    "static/js/2.17b35f7b.chunk.js.map": "/inspire-frontend/static/js/2.17b35f7b.chunk.js.map",
+    "static/js/3.f234b097.chunk.js": "/inspire-frontend/static/js/3.f234b097.chunk.js",
+    "static/js/3.f234b097.chunk.js.map": "/inspire-frontend/static/js/3.f234b097.chunk.js.map",
+    "index.html": "/inspire-frontend/index.html",
+    "static/css/2.26be8dc4.chunk.css.map": "/inspire-frontend/static/css/2.26be8dc4.chunk.css.map",
+    "static/css/main.4ddf1a71.chunk.css.map": "/inspire-frontend/static/css/main.4ddf1a71.chunk.css.map",
+    "static/js/2.17b35f7b.chunk.js.LICENSE.txt": "/inspire-frontend/static/js/2.17b35f7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81cc7a2f.js",
+    "static/css/2.26be8dc4.chunk.css",
+    "static/js/2.17b35f7b.chunk.js",
+    "static/css/main.4ddf1a71.chunk.css",
+    "static/js/main.4590a7f0.chunk.js"
+  ]
+}
